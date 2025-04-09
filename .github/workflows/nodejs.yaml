@@ -30,6 +30,6 @@ jobs:
       with:
         target_branch: master
         build_dir: .vitepress/dist
-        repo: kngako/kngako.github.io
+        repo: st10438939-lehlohonolo-moeletsi/st10438939-lehlohonolo-moeletsi.github.io
       env:
         GITHUB_PAT: ${{ secrets.DEPLOYMENT_TOKEN }}
